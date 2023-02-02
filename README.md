@@ -5,4 +5,4 @@ I am a top G man
 ## Sample Code
 `printf( 'Hello World!' );`
 ## How to Install
-- Step1: Download the zip file or use git clone
+- Step 1: Download the zip file or use git clone
