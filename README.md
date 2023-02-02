@@ -4,3 +4,5 @@ I am a top G man
 - [@pogio](https://github.com/NouieGwapo)
 ## Sample Code
 `printf( 'Hello World!' );`
+## How to Install
+- Step1: Download the zip file or use git clone
