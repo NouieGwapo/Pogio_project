@@ -8,3 +8,6 @@ I am a top G man
 - Step 1: Download the zip file or use git clone
 commit1
 commit2
+
+branch commit1
+branch commit2
